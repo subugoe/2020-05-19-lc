@@ -1,6 +1,6 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
-carpentry: "dc-socsci"    # what kind of Carpentry (must be either "lc" or "dc" or "swc").  
+carpentry: "dc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc").  
                       # Be sure to update the Carpentry type in _config.yml as well.  
 venue: "RDA Germany Conference 2020"        # brief name of host site without address (e.g., "Euphoric State University")
 address: "Telegrafenberg, 14473 Potsdam, Germany"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
