@@ -92,15 +92,6 @@ AUDIENCE
 Explain who your audience is.  (In particular, tell readers if the
 workshop is only open to people from a particular institution.
 {% endcomment %}
-Audience: Library Carpentry is made by librarians, for librarians to help you:
-
-* automate repetitive, boring, error-prone tasks
-* create, maintain and analyse sustainable and reusable data
-* work effectively with IT and systems colleagues
-* better understand the use of software in research
-* and much more…
-
-Library Carpentry introduces you to the fundamentals of computing and provides you with a platform for further self-directed learning.
 {% if page.carpentry == "swc" %}
 {% include sc/who.html %}
 {% elsif page.carpentry == "dc" %}
@@ -654,7 +645,7 @@ please preview your site before committing, and make sure to run
   {% endcomment %}
 </div> {% comment %} End of 'Python' section. {% endcomment %}
  -->
-<!-- <div id="r"> {% comment %} Start of 'R' section. {% endcomment %}
+<div id="r"> {% comment %} Start of 'R' section. {% endcomment %}
   <h3>R</h3>
 
   <p>
@@ -708,7 +699,7 @@ please preview your site before committing, and make sure to run
       </article>
     </div>
   </div>
-</div> {% comment %} End of 'R' section. {% endcomment %} -->
+</div> {% comment %} End of 'R' section. {% endcomment %}
 
 <!-- <div id="sql"> {% comment %} Start of 'SQLite' section. {% endcomment %}
   <h3>SQLite</h3>
