@@ -149,14 +149,13 @@ CODE OF CONDUCT
 <strong>Code of Conduct:</strong>  Everyone who participates in Carpentries activities is required to conform to the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>. This document also outlines how to report an incident if needed.
 </p>
 
-
 {% comment %}
-<!--
 ACCESSIBILITY
 
 Modify the block below if there are any barriers to accessibility or
 special instructions.
 {% endcomment %}
+<!--
 <p id="accessibility">
   <strong>Accessibility:</strong> We are committed to making this workshop
   accessible to everybody.
