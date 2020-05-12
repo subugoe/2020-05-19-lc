@@ -84,7 +84,7 @@ the pitch.
 {% elsif page.carpentry == "lc" %}
 {% include lc/intro.html %}
 {% endif %}
-Note: the workshop conists of four independent lessons that can be taken separtely.
+**Note:** the workshop conists of four independent lessons that can be taken separtely.
 {% comment %}
 AUDIENCE
 
