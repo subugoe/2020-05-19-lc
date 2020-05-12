@@ -151,6 +151,7 @@ CODE OF CONDUCT
 
 
 {% comment %}
+<!--
 ACCESSIBILITY
 
 Modify the block below if there are any barriers to accessibility or
@@ -173,7 +174,7 @@ special instructions.
   get in touch (using contact details below) and we will
   attempt to provide them.
 </p>
-
+-->
 {% comment %}
 CONTACT EMAIL ADDRESS
 
