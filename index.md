@@ -3,7 +3,7 @@ layout: workshop      # DON'T CHANGE THIS.
 carpentry: "lc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc").  
                       # Be sure to update the Carpentry type in _config.yml as well.  
 venue: "SUB Göttingen"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "https://meet.gwdg.de/b/hva-ndx-gnh"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+address: "Big Blue Button"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "de"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "de, en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 latlng: "51.539741, 9.935895"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
@@ -112,9 +112,9 @@ address.
 <p id="where">
   <strong>Where:</strong>
   {{page.address}}.
-  <!-- Get directions with
-  <a href="//www.openstreetmap.org/?mlat={{page.latlng | replace:',','&mlon='}}&zoom=16">OpenStreetMap</a>
-  or
+  <!-- Get directions with -->
+  <a href="https://meet.gwdg.de/b/hva-ndx-gnh">BBB</a>
+ <!-- or
   <a href="//maps.google.com/maps?q={{page.latlng}}">Google Maps</a>. -->
 </p>
 {% endif %}
