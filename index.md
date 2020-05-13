@@ -7,8 +7,8 @@ address: "Big Blue Button"      # full street address of workshop (e.g., "Room A
 country: "de"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "de, en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 latlng: "51.539741, 9.935895"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
-humandate: "May 19, 20, 27, 2020; June 3, 4, 2020 (preliminary)"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "09:30 pm - 13:20 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+humandate: "May 19, 20, 27, 2020; June 3 - 4, 2020 (preliminary)"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humantime: "10:00 am - 13:20 pm or 14:00 pm - 16:00pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2020-04-22      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2020-04-23        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Daniel Bangert", "Claudia Engelhardt", "Timo Gnadt", "Péter Kiraly", "Hanna Varachkina", "Andreas Walker", "Ubbo Veentjer", "Najko Jahn", "Anne Hobert" ] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
