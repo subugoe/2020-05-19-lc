@@ -9,8 +9,8 @@ language: "de, en"     # lowercase two-letter ISO language code such as "fr" (se
 latlng: "51.539741, 9.935895"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
 humandate: "May 19, 20, 27, 2020; June 3 - 4, 2020"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "Time: depends on the lesson, see the schedule below"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2020-04-22      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2020-04-23        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+startdate: 2020-05-19      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2020-06-04        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Daniel Bangert", "Claudia Engelhardt", "Timo Gnadt", "Péter Kiraly", "Hanna Varachkina", "Andreas Walker", "Ubbo Veentjer", "Najko Jahn", "Anne Hobert" ] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Astrid Orth", "Birgit Schmidt"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 collaborative_notes:  https://pad.carpentries.org/2020-04-22-ugoe-carpentries             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
